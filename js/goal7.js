@@ -14,7 +14,7 @@
     var people = [];
 
     function populateHTML(){
-        people.forEach()
+
 
 
     }
